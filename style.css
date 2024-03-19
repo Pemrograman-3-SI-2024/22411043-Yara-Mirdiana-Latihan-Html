@@ -1,0 +1,48 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: rgb(164, 200, 211);
+}
+.title1 {
+    color: rgb(255, 0, 200);
+}
+
+.my-button {
+    background-color: rgb(66, 12, 116);
+    border: none;
+    /* atas, kanan, bawah, kiri */
+   /* padding: 1em 4em 8em 12em; */
+   padding: 0.7em;
+   border-radius: 22px;
+   color: white;
+}
+
+.outline-button {
+    border: 1px solid rgb(78, 6, 222);
+    padding: 0.7em 1.3em;
+    border-radius: 20px;
+    color: rgb(74, 136, 207);
+    background-color: white;
+}
+
+.outline-button:hover {
+    background-color: rgb(97, 93, 41);
+    color: white;
+}
+
+.my-table {
+    border: none;
+}
+
+.my-table td {
+    padding: 1em;
+}
+
+.my-table tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+.my-card {
+    width: 16em;
+    background-color: rgb(180, 159, 179);
+}
