@@ -41,7 +41,6 @@ body {
 .my-table tr:nth-child(even) {
     background-color: #ffffff;
 }
-
 .my-card {
     width: 16em;
     background-color: rgb(180, 159, 179);
